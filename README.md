@@ -5,6 +5,11 @@ Train your aim for  fps games like Valorant, Counter strike, Call of Duty, Overw
 
 Get better at all the available fps games by practicing your aim.
 
+![Game](https://user-images.githubusercontent.com/82767839/148635616-8f5bc08a-3e8f-40c8-87d3-e47344a70867.png)
+
+
+
+
 To run this game:
  1.Download all the files into a single folder
  2.Install pygame 
@@ -17,7 +22,9 @@ This game is currently available only on python
 Practice your aim without logging into any websites.
 
 Credits for Aim-Ball and Game-Icon: 
+
    Game-Icon: https://www.flaticon.com/free-icon/medicine-ball_587444?term=ball&page=1&position=24&page=1&position=24&related_id=587444&origin=search#
+   
    Aim-Ball: https://www.flaticon.com/free-icon/fitness-ball_2324536?term=ball&page=1&position=23&page=1&position=23&related_id=2324536&origin=search#
    
    
