@@ -11,8 +11,11 @@ Get better at all the available fps games by practicing your aim.
 
 
 To run this game:
+
  1.Download all the files into a single folder
+ 
  2.Install pygame 
+ 
  3.Run the code and practice your aim
  
 It displays score,accuracy and a message "Headshot" when u hit it exactly at the centre.
